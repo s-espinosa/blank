@@ -26,10 +26,10 @@ defaults:
       layout: "page"
 
 assets:
-  root_url: '/assets'
+  root_url: '/blank/assets'
 
 images:
-  root_url: '/assets/images'
+  root_url: '/blank/assets/images'
 
 plugins:
   - jemoji
