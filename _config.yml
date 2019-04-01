@@ -2,7 +2,7 @@ title: "Back-End Engineering Curriculum - Turing School of Software and Design"
 description: "Open source curriculum for the Turing School of Software and Design's back end engineering program."
 url: "https://s-espinosa.github.io/blank/"
 
-baseurl: ''
+baseurl: 'https://s-espinosa.github.io/blank/'
 permalink: /:title
 
 markdown: kramdown
